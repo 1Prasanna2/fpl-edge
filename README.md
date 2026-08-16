@@ -1,5 +1,7 @@
 # FPL Edge — See the Edge. Make the Move.
 
+**🌐 Live demo:** https://fpl-edge-gquejsdwtruprkkcah8mtf.streamlit.app/ · 
+
 An open-source decision engine that turns Fantasy Premier League data into four weekly
 actions — **Best Overall, Captain, Best Value, Hidden Gem** — each with a 0–100 Edge
 Score, a fixture-adjusted projection, and a plain-language reason.
