@@ -1,0 +1,10 @@
+{
+  "season": "2024-25",
+  "test_gameweeks": "31-38",
+  "n_test_rows": 5663,
+  "mae": 1.091,
+  "rmse": 2.092,
+  "spearman": 0.68,
+  "baseline_mae": 1.099,
+  "captain_hit_rate": 0.143
+}
